@@ -1,2 +1,2 @@
 # Principal-component-analysis-PCA-From-Scratch
-Principal component analysis (PCA) From Scratch witch example and visualization.
+Principal component analysis (PCA) From Scratch with example and visualization.
